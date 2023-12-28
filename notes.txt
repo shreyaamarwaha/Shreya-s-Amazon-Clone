@@ -1,0 +1,6 @@
+hi, this is a pure html and css based project, built in dec 2023 by shreya marwaha. 
+this is intended to strengthen the fundamentals of html and css
+we will be using https://cdnjs.com/libraries/font-awesome for importing the fonts
+
+
+for making a website responsive, use "rem" to specify the font size shuru se, instead of pixels
